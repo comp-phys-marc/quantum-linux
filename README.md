@@ -1,2 +1,2 @@
 # quantum-linux
-Scripts and utilities related to my effort to create a quantum focused Linux distro from scratch
+A quantum focused Linux distro made from scratch including a number of hand-written scripts and utilities.
